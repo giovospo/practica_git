@@ -1,2 +1,2 @@
 # Hola a todos
-Agragamos un cambio desde git
+Agregamos un cambio desde git
